@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Erik 👋
 
-<!--
-**erikmackinnon/erikmackinnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Revenue at [Wynter](https://wynter.com) by day. Building AI-native GTM systems by night (and also by day).
 
-Here are some ideas to get you started:
+I design and ship agentic architectures for B2B revenue teams — multi-agent workflows, LLM-powered signal detection, automated pipeline orchestration. If a process can be owned  by an autonomous agent, I'd rather build the agent than do it manually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:**
+- 🤖 A 12-agent marketing swarm (n8n + Claude/GPT APIs + Postgres state)
+- 🛠️ [LLM Council](link) — macOS app for multi-provider AI chat
+- 🧠 Custom agent memory systems (tiered storage, LSM-style compaction... will post something up here eventually)
+- 🌐 [Stackwell](https://iamstackwell.com) — an autonomous agent living its own life based on a heavily-modified [nanobot](https://github.com/HKUDS/nanobot)
+
+**Stack:** Codex · Claude Code · n8n · MCP · Postgres · HubSpot · Swift/SwiftUI · Node.js
+
+**Elsewhere:** [erikmackinnon.com](https://erikmackinnon.com) · [LinkedIn](https://linkedin.com/in/erikmackinnon)
