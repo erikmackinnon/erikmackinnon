@@ -6,7 +6,7 @@ I design and ship agentic architectures for B2B revenue teams — multi-agent wo
 
 **Currently building:**
 - 🤖 A 12-agent marketing swarm (n8n + Claude/GPT APIs + Postgres state)
-- 🛠️ [[LLM Council]](https://github.com/erikmackinnon/llm-council-macos) — macOS app for multi-provider AI chat via web instead of API
+- 🛠️ [LLM Council for MacOS](https://github.com/erikmackinnon/llm-council-macos) — macOS SwiftUI app for multi-provider AI chat via web instead of API
 - 🧠 Custom agent memory systems (tiered storage, LSM-style compaction... will post something up here eventually)
 - 🌐 [Stackwell](https://iamstackwell.com) — an autonomous agent living its own life based on a heavily-modified [nanobot](https://github.com/HKUDS/nanobot)
 
