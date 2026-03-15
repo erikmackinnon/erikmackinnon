@@ -1,4 +1,4 @@
-### Hey, I'm Erik 👋
+### Hey, I'm Erik
 
 Head of Revenue at [Wynter](https://wynter.com) by day. Building AI-native GTM systems by night (and also by day).
 
